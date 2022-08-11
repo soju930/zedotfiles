@@ -1,4 +1,5 @@
 set fish_greeting ""
+fish_add_path /opt/homebrew/bin
 
 set -gx TERM xterm-256color
 
